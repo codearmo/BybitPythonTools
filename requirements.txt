@@ -1,0 +1,5 @@
+pybit
+pandas
+python-dotenv
+matplotlib
+mplfinance

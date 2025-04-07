@@ -1,0 +1,8 @@
+{
+    "codearmo": {
+      "api_key" : "INSERT YOUR KEY",
+      "api_secret" : "INSERT YOUR KEY",
+      "testnet": true
+      }
+  
+}
